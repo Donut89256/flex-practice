@@ -8,4 +8,4 @@ All that was needed in order to get started for this project was the `git clone`
 ---
 
 Get to Work.
-![Work](https://giphy.com/gifs/JIX9t2j0ZTN9S)
+![Work](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
